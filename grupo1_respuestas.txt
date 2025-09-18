@@ -1,3 +1,5 @@
 1. ¿Qué diferencia hay entre git add y git commit?
 git add sirve para seleccionar los archivos que quiero guarda
 git commit es el que realmente guarda esos cambios en el historial del proyecto, junto con un mensaje que los describe. "andres nieva"
+2.¿Qué significa hacer un push en Git y por qué es necesario?
+git push carga el commit que vos hisiste al GitHub, es nesesario para poder trabajar en github 
