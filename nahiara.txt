@@ -1,0 +1,2 @@
+hola soy nahiara
+git init:es para inicianalizar
