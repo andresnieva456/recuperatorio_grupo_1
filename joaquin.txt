@@ -1,0 +1,8 @@
+joaquin rojas orecchia
+
+los codigos que use fueron:
+git clone: para clonar el repositorio
+git status: para ver el estado 
+git add: para prepara la version
+git commit -m: para registrar los cambios
+git push: para subir el repositorio en github
