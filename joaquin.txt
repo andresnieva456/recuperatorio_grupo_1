@@ -1,0 +1,8 @@
+joaquin rojas orecchia
+
+los codigos que use fueron:
+git clone
+git status
+git add
+git commit -m
+git push
