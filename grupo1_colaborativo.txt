@@ -1,5 +1,6 @@
 los conflictos de merge en GitHub son importantes porque muestran lo que pasa cuando varias personas trabajan en lo mismo al mismo tiempo. Si no se resuelve bien, el proyecto puede quedar con errores o con cosas que se pisan unas a otras.
 Resolverlos es clave porque obliga a ponernos de acuerdo, respetar el trabajo de los demás y unir todo de la mejor forma. "andres nieva"
+Los conflictos de merge son parte del trabajo en equipo. Resolverlos bien asegura respeto, buena comunicación y un proyecto más sólido.
 
 
 
