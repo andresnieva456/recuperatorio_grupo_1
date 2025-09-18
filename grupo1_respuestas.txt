@@ -1,3 +1,8 @@
 1. ¿Qué diferencia hay entre git add y git commit?
 git add sirve para seleccionar los archivos que quiero guarda
 git commit es el que realmente guarda esos cambios en el historial del proyecto, junto con un mensaje que los describe. "andres nieva"
+
+
+
+5. ¿Qué aprendieron sobre la importancia de la organización en proyectos colaborativos usando GitHub?
+Que sin organización el proyecto se vuelve un caos. GitHub enseña que es fundamental comunicarse, respetar el trabajo de los demás y tener un orden al guardar cambios, porque así el trabajo en equipo fluye mejor y el resultado es más sólido.
