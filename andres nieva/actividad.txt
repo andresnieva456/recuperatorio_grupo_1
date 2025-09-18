@@ -1,0 +1,19 @@
+git clone <url>
+Sirve para copiar un repositorio a la computadora
+
+git status
+Sirve para ver el estado actual de tu repositorio local.
+Te dice qué archivos se modificaron, Cuáles están listos para ser guardados (staged) y en qué rama estás trabajando
+
+git pull
+Sirve para traer y actualizar tu proyecto local con los últimos cambios que haya en GitHub
+
+git push
+Sirve para enviar tus cambios locales al repositorio
+
+git add <archivo>
+Sirve para seleccionar los archivos que querés incluir en el próximo "commit"
+
+git commit -m ""
+Sirve para guardar un “"mensaje" con los cambios añadidos con git add
+El mensaje entre comillas debe explicar el cambio
