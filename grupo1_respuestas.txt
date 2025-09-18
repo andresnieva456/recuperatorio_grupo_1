@@ -2,9 +2,14 @@
 git add sirve para seleccionar los archivos que quiero guarda
 git commit es el que realmente guarda esos cambios en el historial del proyecto, junto con un mensaje que los describe. "andres nieva"
 <<<<<<< HEAD
+<<<<<<< HEAD
+2.¿Qué significa hacer un push en Git y por qué es necesario?
+git push carga el commit que vos hisiste al GitHub, es nesesario para poder trabajar en github 
+=======
 3. ¿Por qué GitHub facilita la coordinación en equipos grandes?
 Porque permite que muchas personas trabajen en el mismo proyecto sin pisarse.
 Cada uno puede aportar desde su computadora, y GitHub guarda el historial, muestra quién hizo qué y ayuda a unir todo de forma ordenada.
+>>>>>>> 4864b29b811f61fbe4084384adc7442c1fa4f161
 =======
 
 
@@ -13,6 +18,7 @@ Cada uno puede aportar desde su computadora, y GitHub guarda el historial, muest
 Que sin organización el proyecto se vuelve un caos. GitHub enseña que es fundamental comunicarse, respetar el trabajo de los demás y tener un orden al guardar cambios, porque así el trabajo en equipo fluye mejor y el resultado es más sólido.
 Pero honestamente nada mas de lo que ya sabia. "Ciro Chol"
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 aylen :
 
@@ -20,6 +26,9 @@ Explica qué es un conflicto de merge y cómo se puede resolver.
 - Un conflicto de merge sucede cuando dos ramas modifican las mismas líneas de un archivo y Git no puede decidir.
 - Resolución: editar el archivo para reconciliar cambios, eliminar las marcas de conflicto, hacer `git add`, `git commit`, y continuar con el flujo.
 
+=======
+>>>>>>> 5369ae16668d8688548b64b70eaac06ad60fea08
+>>>>>>> 151676c77734ff55b18c11a15533c9f004a58764
 =======
 >>>>>>> f86a3b522263dc27129a11f39f8849d1e32889c7
 >>>>>>> 4864b29b811f61fbe4084384adc7442c1fa4f161
