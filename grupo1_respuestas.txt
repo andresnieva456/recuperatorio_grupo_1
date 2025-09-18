@@ -7,3 +7,10 @@ git commit es el que realmente guarda esos cambios en el historial del proyecto,
 5. ¿Qué aprendieron sobre la importancia de la organización en proyectos colaborativos usando GitHub?
 Que sin organización el proyecto se vuelve un caos. GitHub enseña que es fundamental comunicarse, respetar el trabajo de los demás y tener un orden al guardar cambios, porque así el trabajo en equipo fluye mejor y el resultado es más sólido.
 Pero honestamente nada mas de lo que ya sabia. "Ciro Chol"
+
+aylen :
+
+Explica qué es un conflicto de merge y cómo se puede resolver.
+- Un conflicto de merge sucede cuando dos ramas modifican las mismas líneas de un archivo y Git no puede decidir.
+- Resolución: editar el archivo para reconciliar cambios, eliminar las marcas de conflicto, hacer `git add`, `git commit`, y continuar con el flujo.
+
