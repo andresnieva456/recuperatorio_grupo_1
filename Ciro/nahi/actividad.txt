@@ -1,0 +1,5 @@
+nombre completo:nahiara borgatello
+ git clone: para clonar el repositorio remoto a mi computadora.
+ git add: para agregar archivos al área de preparación (staging).
+ git commit: para guardar los cambios de forma local con un mensaje.
+  git push: para subir los cambios al repositorio remoto en GitHub.
